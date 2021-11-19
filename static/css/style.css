@@ -7,3 +7,8 @@
 .container {
     text-align: center;
 }
+.important > h2 {
+    font-size: x-large;
+    
+
+}
